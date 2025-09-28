@@ -1,5 +1,5 @@
 # MCLogger
-MCLogger - Neural Wood - Raw Project - Institute of Computational Design and Computing for Architecture - University of Stuttgart
+MCLogger - Neural Wood - Institute of Computational Design and Computing for Architecture - University of Stuttgart
 
 ## Description
 This repository contains the codes and procedures to utilize the MCLogger tool for measuring and storing data: Wood Moisture content, ambient temperature and humidity, time, board, and section numbers. This data is obtained through a series of sensors connected to a Raspberry pi. The Hardware includes: a timber moisture content sensor, an ambient temperature and humidity sensor (DTH 22), a 16x2 LCD display, a Raspberry Pi camera module 3, and 4 input buttons, all connected to a Raspberry Pi 4 and supported by a 3D printed case.  
